@@ -24,10 +24,15 @@ This could be useful if you don't want to install Maven locally
 - Scala version: ```2.11.4```
 - sbt version: ```0.13.13```
 - Maven version: ```3.3.9```
+- NPM version: ```1.4.21```
+
+## Notes
+
+This image would contain npm as well. It was needed to build [Apache Zeppelin](https://zeppelin.apache.org/)
 
 ## Tests
 
-Tested on macOS 10.12.1 (Sierra)
+Tested on macOS 10.12.1 (Sierra) with Docker for Mac Version 1.12.1 (build: 12133)
 
 ## References
 
