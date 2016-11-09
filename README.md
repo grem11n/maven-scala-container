@@ -2,6 +2,8 @@
 
 ![logo] (https://binfalse.de/assets/media/pics/2016/mvn-docker.jpg "Docker & Apache")
 
+## Description
+
 This could be useful if you don't want to install Maven locally
 
 ## Usage
