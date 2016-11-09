@@ -28,3 +28,9 @@ This could be useful if you don't want to install Maven locally
 ## Tests
 
 Tested on macOS 10.12.1 (Sierra)
+
+## References
+
+- Docker starter guide: [Get started with Docker](https://docs.docker.com/engine/getstarted/)
+
+- Maven quick guide: [Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
