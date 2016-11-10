@@ -21,7 +21,7 @@ This could be useful if you don't want to install Maven locally
 ## Properties
 
 - Java version: ```1.7.0_111```
-- Scala version: ```2.11.4```
+- Scala version: ```2.9.1-1```
 - sbt version: ```0.13.13```
 - Maven version: ```3.3.9```
 - NPM version: ```1.4.21```
